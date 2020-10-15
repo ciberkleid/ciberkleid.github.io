@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![profile-pic](/assets/images/cora-profile-1.png){:class="img-responsive" height="25%" width="25%" style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Cora Iberkleid is a Developer Advocate for [Modern Applications at VMware][vmware-mapbu], helping developers and enterprises navigate and adopt modern practices and technologies including Spring, Kubernetes, Cloud Foundry, Tanzu, and modern CI/CD.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[vmware-mapbu]: https://www.vmware.com/cloud-solutions/app-modernization.html
 
-
-[jekyll-organization]: https://github.com/jekyll
