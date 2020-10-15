@@ -3,9 +3,9 @@ layout: page
 theme: Building Images
 title: Building Production-Ready Container Images
 conf1: "[KubeAcademy (course)](https://kube.academy/courses/building-images)"
-conf2: "[Spring Live 2020](https://tanzu.vmware.com/developer/tv/spring-live/0029/)"
+conf2: "[Spring Live 2020](https://tanzu.vmware.com/developer/tv/spring-live/0029)"
 conf2_youtube: EVHHyiypiY0
-conf3: "[Tanzu Tuesdays 2020](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0007/)"
+conf3: "[Tanzu Tuesdays 2020](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0007)"
 conf3_youtube: K6O1iQf9eW4
 ---
 
