@@ -17,7 +17,6 @@ Sample presentations:
 {% if abstract.conf3 %}> {{abstract.conf3}}{% endif %}{% if abstract.conf3_pair contains " " %} - with {{ abstract.conf3_pair }} {% endif %}
 {% if abstract.conf4 %}>{% endif %}
 {% if abstract.conf4 %}> {{abstract.conf4}}{% endif %}{% if abstract.conf4_pair contains " " %} - with {{ abstract.conf4_pair }} {% endif %}
-
 <br>
 
 <!--
