@@ -7,7 +7,7 @@ conf2: "[Spring Live 2020](https://tanzu.vmware.com/developer/tv/spring-live/002
 conf2_youtube: EVHHyiypiY0
 conf3: "[Tanzu Tuesdays 2020](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0007)"
 conf3_youtube: K6O1iQf9eW4
-conf4: "[J4K.io](https://www.j4k.io)"
+conf4: "[J4K.io 2020](https://www.youtube.com/watch?v=_hOLCRuKzfw)"
 conf4_youtube: _hOLCRuKzfw
 ---
 
