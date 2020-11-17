@@ -7,6 +7,8 @@ conf2: "[Spring Live 2020](https://tanzu.vmware.com/developer/tv/spring-live/002
 conf2_youtube: EVHHyiypiY0
 conf3: "[Tanzu Tuesdays 2020](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0007)"
 conf3_youtube: K6O1iQf9eW4
+conf4: "[J4K.io](https://www.j4k.io)"
+conf4_youtube: _hOLCRuKzfw
 ---
 
 As Kubernetes becomes the runtime platform of choice, turning apps into production-grade images with confidence and ease becomes critical to achieving productivity and success. Dockerfile and Jib are popular approaches, yet they present significant challenges, especially as the number and variety of applications increases. Enter Cloud Native Buildpacks - tooling that makes it quick and easy to build and maintain images for a variety of languages, while providing security, auditability, transparency, and control.
