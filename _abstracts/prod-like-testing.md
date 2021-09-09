@@ -1,6 +1,6 @@
 ---
 layout: page
-theme: Prod-like Application Testing
+theme: Application Integration Testing
 title: "Prod-Like Integration Testing for Distributed Containerized Applications"
 conf1: "[SpringOne 2021](https://springone.io/2021/sessions/prod-like-integration-testing)"
 conf1_pair: Maria Gabriella Brodi
